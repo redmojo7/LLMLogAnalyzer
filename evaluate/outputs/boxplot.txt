@@ -1,0 +1,49 @@
+Saving boxplot...
+Average Narrowing in IQR (LLMLogAnalyzer(Llama-3-70B)): 
+Cosine Similarity: 66.45%
+ROUGE-1 F1: 93.10%
+Median Values:
+Metric: Cosine Similarity
+Model: ChatGPT(GPT-4o), Median: 0.2400
+Model: NotebookLM, Median: 0.2050
+Model: ChatPDF, Median: 0.2100
+Model: LLMLogAnalyzer(Llama-3-70B), Median: 0.4500
+Model: LLMLogAnalyzer(Llama-3-8B), Median: 0.2750
+--------------------------------------------------
+Metric: ROUGE-1 F1
+Model: ChatGPT(GPT-4o), Median: 0.2700
+Model: NotebookLM, Median: 0.2400
+Model: ChatPDF, Median: 0.2450
+Model: LLMLogAnalyzer(Llama-3-70B), Median: 0.4400
+Model: LLMLogAnalyzer(Llama-3-8B), Median: 0.2500
+--------------------------------------------------
+Outliers:
+Metric: Cosine Similarity
+Model: ChatGPT(GPT-4o), Outliers: [0.61]
+Model: NotebookLM, Outliers: []
+Model: ChatPDF, Outliers: [0.47 0.5  0.46]
+Model: LLMLogAnalyzer(Llama-3-70B), Outliers: [0.78]
+Model: LLMLogAnalyzer(Llama-3-8B), Outliers: []
+--------------------------------------------------
+Metric: ROUGE-1 F1
+Model: ChatGPT(GPT-4o), Outliers: [0.58]
+Model: NotebookLM, Outliers: []
+Model: ChatPDF, Outliers: []
+Model: LLMLogAnalyzer(Llama-3-70B), Outliers: [0.73 0.29]
+Model: LLMLogAnalyzer(Llama-3-8B), Outliers: []
+--------------------------------------------------
+Percentage of Outliers:
+Metric: Cosine Similarity
+Model: ChatGPT(GPT-4o), Outlier Percentage: 3.57%
+Model: NotebookLM, Outlier Percentage: 0.00%
+Model: ChatPDF, Outlier Percentage: 10.71%
+Model: LLMLogAnalyzer(Llama-3-70B), Outlier Percentage: 3.57%
+Model: LLMLogAnalyzer(Llama-3-8B), Outlier Percentage: 0.00%
+--------------------------------------------------
+Metric: ROUGE-1 F1
+Model: ChatGPT(GPT-4o), Outlier Percentage: 3.57%
+Model: NotebookLM, Outlier Percentage: 0.00%
+Model: ChatPDF, Outlier Percentage: 0.00%
+Model: LLMLogAnalyzer(Llama-3-70B), Outlier Percentage: 7.14%
+Model: LLMLogAnalyzer(Llama-3-8B), Outlier Percentage: 0.00%
+--------------------------------------------------

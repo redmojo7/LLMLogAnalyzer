@@ -1,0 +1,8 @@
+Category,ChatGPT(GPT-4o) Cosine Similarity,ChatGPT(GPT-4o) ROUGE-1 F1,NotebookLM Cosine Similarity,NotebookLM ROUGE-1 F1,ChatPDF Cosine Similarity,ChatPDF ROUGE-1 F1,LLMLogAnalyzer(Llama-3-70B) Cosine Similarity,LLMLogAnalyzer(Llama-3-70B) ROUGE-1 F1,LLMLogAnalyzer(Llama-3-8B) Cosine Similarity,LLMLogAnalyzer(Llama-3-8B) ROUGE-1 F1
+Summarization,0.26,0.33,0.20,0.31,0.22,0.26,0.41,0.51,0.36,0.42
+Pattern Extraction,0.12,0.23,0.08,0.18,0.07,0.21,0.38,0.39,0.05,0.10
+Anomaly Detection,0.11,0.23,0.14,0.25,0.19,0.26,0.49,0.53,0.19,0.26
+Root Cause Analysis,0.32,0.43,0.39,0.37,0.26,0.37,0.41,0.45,0.09,0.11
+Predictive Failure Analysis,0.18,0.36,0.19,0.29,0.27,0.40,0.59,0.57,0.20,0.25
+Log Understanding and Interpretation,0.47,0.28,0.44,0.20,0.47,0.22,0.55,0.42,0.51,0.32
+Log Filtering and Search,0.25,0.29,0.10,0.08,0.17,0.10,0.46,0.44,0.25,0.28
